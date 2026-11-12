@@ -15,4 +15,6 @@ Move status from a commit by adding it in brackets: `AGUA-12[in review] add thre
 ```
 python -m pytest
 ```
-Dry Run v2
+Test
+Dry run
+Dry run AGUA-6
